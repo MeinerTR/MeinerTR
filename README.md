@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MeinerTR
+- 👀 I’m interested in game developing, making OS and AI
+- 🌱 I’m currently learning generally python
+- 💞️ I’m looking to collaborate on game developing
+- 📫 How to reach me is my mail adress: MeinerTv4321@yandex.com
