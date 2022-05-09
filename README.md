@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @MeinerTR
-- 👀 I’m interested in rythm game developing
-- 🌱 I’m currently learning generally python
-- 💞️ I’m looking to collaborate on game developing
-- 📫 How to reach me is my mail adress: MeinerTv4321@yandex.com
+My favourite programming language is C.
+I'm currently making a rythm game for only linux.
+I'm upload some of my projects here and that's all I think.
